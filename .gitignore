@@ -73,3 +73,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Block/Temp/FSTimeGet-7078d8063394e1441a64ce579dbecb51
 Block/Temp/UnityLockfile
+/Block/Logs/
