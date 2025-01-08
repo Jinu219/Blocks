@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105206342370",
+    "project_id": "blocks-60921",
+    "storage_bucket": "blocks-60921.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105206342370:android:1a37f372fb7cb0c41a34bb",
+        "android_client_info": {
+          "package_name": "com.xinu.blocks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJS80mw8ue2x0yPhkmnmXc1xrI-9HEejs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
