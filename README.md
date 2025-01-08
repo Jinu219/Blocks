@@ -1,13 +1,11 @@
-# Blocks
-
-### BlocksProject
+## ☁ BlocksProject
 > 2025.01.06 ~
 
 **컴퓨터 데스크탑에서 즐길수 있는 간단한 블럭게임과 테트리스**
 
 <br><br>
 
-### Contributor
+## 🌨 Contributor
 <center>
 <table>
   <tr>
@@ -28,7 +26,7 @@
 
 <br><br>
         
-### 노션 주소 
+## 🌧 노션 주소 
 <a href ="https://blockgames.notion.site/Blocks-172dc9c7ae3d802eb7dcc0a992e18f02?pvs=4">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
 </a>
