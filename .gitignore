@@ -74,3 +74,5 @@ crashlytics-build.properties
 Block/Temp/
 /Library/
 /Block/Library/
+/Block/Assets/Firebase/Plugins/**/*.so
+/Block/Assets/Firebase/Plugins/**/*.bundle
